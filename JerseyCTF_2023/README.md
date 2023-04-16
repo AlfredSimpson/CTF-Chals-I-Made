@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" href="../css/styles.css">
+</head>
 # JerseyCTF 2023
 
 JerseyCTF 2023 was hosted by NJIT's ACM, SCI, and NICC. This event took place April 15th to April 16th and contained well over 55 challenges.
