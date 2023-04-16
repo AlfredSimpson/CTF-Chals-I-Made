@@ -1,6 +1,4 @@
-<head>
-<link rel="stylesheet" href="../css/styles.css">
-</head>
+
 # JerseyCTF 2023
 
 JerseyCTF 2023 was hosted by NJIT's ACM, SCI, and NICC. This event took place April 15th to April 16th and contained well over 55 challenges.
@@ -12,6 +10,7 @@ As President of NICC, I helped coordinate the event with the student leads of AC
 
 ## What made the cut
 
+In total, **4** OSINT challenges (1 easy, 1 medium, 2 hard), **1** misc challenge (hard), **1** bin challenge (easy), **2** crypto challenges (medium and hard) the **3** Spooky challenges made the final cut into the competition. 
 
 
 ## What didn't (yet)
@@ -25,8 +24,13 @@ Another challenge, a trivia game with a twist that was built in C, was... a nigh
 
 The event, which contained challenges submitted by many different members, contained bin, crypto, forensics, misc, osint, web, and "Spooky" challenges. Spooky were 3 relatively simple challenges we released from NICC's first attempt at a CTF that was only held internally. These challenges were simple and just meant to encourage participation within the organization.
 
-<div class="container">
-    <div class="image"> <img src="../JerseyCTF_2023/images/Submission%20Percentages.png">
+<div style="display:grid; grid-template-columns: 1fr 2fr;">
+    <div style="max-width: 30%;"> <img src="../JerseyCTF_2023/images/Submission%20Percentages.png">
     </div>
     <div class="desc">This event saw 33,790 submissions, averaging a 19.99% solve rate.</div>
+</div>
+<div style="display:grid; grid-template-columns: 1fr 2fr;">
+    <div style="max-width: 30%;"> <img src="../JerseyCTF_2023/images/participants.png">
+    </div>
+    <div class="desc">This event also had 1,515 registered users spread across 801 teams</div>
 </div>
