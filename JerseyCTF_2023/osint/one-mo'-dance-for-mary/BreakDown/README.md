@@ -2,6 +2,8 @@
 
 One-mo'-dance-for-mary premiered during the JerseyCTF III event in April 2023. Despite receiving an incredible amount of messages complaining that it was too guessy of a challenge, I knew that it was not. Why? Because I took the time to build it so meticulously that I knew they should be able to find it if they simply did what I so often jokingly suggest: get good. 
 
+![image](https://user-images.githubusercontent.com/73041922/232670739-3dfa936a-ecf6-42e3-b133-b4c6929fa655.png)
+
 
 # Step One (All methods)
 
@@ -71,6 +73,9 @@ Without knowing the last name Morse, you could have tried any of these three sea
 * * This produces only one result: the exact page the article is on.
 * * Yes, that's **it**. Yes, it was that easy.
 
+![image](https://user-images.githubusercontent.com/73041922/232670946-c0637899-bf2b-492e-b6c9-19ffc6c8bf03.png)
+
+
 Or you could identify the paper it was taken in:
 * Do a basic search here for "News Modern Women" (no quotes), and you'll find dozens of results for the first few pages all with the title "News for Modern Women", a section of the Detroit Evening Times. Now you know which paper it was in.
 * * Using this information, you can add the Detroit Evening Times as a filter and search any of the following to get one result:
@@ -78,7 +83,6 @@ Or you could identify the paper it was taken in:
 * * Mary dance within 10 words of each other, and 'with all of the words': maya dance
 * * Maya Elmer (for those who would guess why glue was mentioned)
 * * mary maya ... dance within 10 words of each other
-* * A basic search of just: mary, dance, maya (but not, strangely enough, [maya, dance, mary] or any other order)
 * * night, mary, maya (2 results)
   
 
@@ -103,7 +107,11 @@ Some examples:
 
 There were in total about 10-15 searches I found that could gave a very small sample size of newspapers that contained our result (which was typically #1 or #2 in the list).
 
+![image](https://user-images.githubusercontent.com/73041922/232671048-3b74d579-e6cb-43b1-b74f-01d0bba11ebf.png)
+
 
 # Final steps: Find the date/dance
 
 The dance name was below their photo: Russian War Relief Dance. THe article also stated it was on Saturday. This article was printed on a Tuesday, August 25th 1942 4 days before the dance. You'd need the date of the dance added to correctly solve the challenge. This was the easiest part.
+
+![image](https://user-images.githubusercontent.com/73041922/232670668-356deaf3-76df-45f6-b1e2-10cfdeb017b7.png)
