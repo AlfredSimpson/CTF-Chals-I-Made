@@ -115,3 +115,7 @@ There were in total about 10-15 searches I found that could gave a very small sa
 The dance name was below their photo: Russian War Relief Dance. THe article also stated it was on Saturday. This article was printed on a Tuesday, August 25th 1942 4 days before the dance. You'd need the date of the dance added to correctly solve the challenge. This was the easiest part.
 
 ![image](https://user-images.githubusercontent.com/73041922/232670668-356deaf3-76df-45f6-b1e2-10cfdeb017b7.png)
+
+# Special Thanks
+
+Shoutout and special thanks to goes out to the four or five of the 1500+ competitors who said this was guessy when they just didn't know how to do a simple search. 
